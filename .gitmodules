@@ -1,0 +1,3 @@
+[submodule "subprj/DevOpsNotes"]
+	path = subprj/DevOpsNotes
+	url = https://github.com/onlinetrainingguy/DevOpsNotes
